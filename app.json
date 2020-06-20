@@ -31,7 +31,7 @@
       "description": "Person or Company Name that appears on the website e.g. your first or full name",
       "value": "",
       "required": false
-    }
+    },
    },
    "addons": [
     "mongolab:sandbox",
