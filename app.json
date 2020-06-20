@@ -26,6 +26,11 @@
       "description": "Canonical Hostname for images and links in emails",
       "value": "",
       "required": false
+    },
+    "PERSON_NAME": {
+      "description": "Person or Company Name that appears on the website e.g. your first or full name",
+      "value": "",
+      "required": false
     }
    },
    "addons": [
